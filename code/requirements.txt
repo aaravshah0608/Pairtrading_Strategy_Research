@@ -1,0 +1,9 @@
+# Requirements
+pandas
+numpy
+xlsxwriter
+
+# Note for Users
+# The strategy logic is identical in both the provided .ipynb (Jupyter Notebook)
+# and the .py (Python Script) versions. Both are derived from the same Google 
+# Colab source code and will produce the same output when configured correctly.
